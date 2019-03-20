@@ -1,0 +1,28 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+}
+
+.container{
+
+  background-size: cover;
+  background-color: transparent;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+
+}
+
+#new_york{
+  background-image: url(newyork.jpg);
+}
+
+#sydney{
+  background-image: url(sydney.jpg);
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#london{
+  background-image: url(london.jpg);
+}
